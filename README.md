@@ -1,4 +1,4 @@
-# Demo Repo
+# Demo Repository
 
 - This is a Demo File.
 - Testing File for git & github.
